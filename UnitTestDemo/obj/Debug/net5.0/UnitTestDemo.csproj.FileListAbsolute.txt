@@ -1,0 +1,24 @@
+C:\Users\tbaird\Desktop\CourseWork\UnitTestDemo\CIV_Unit_Test_Demo\UnitTestDemo\bin\Debug\net5.0\UnitTestDemo.deps.json
+C:\Users\tbaird\Desktop\CourseWork\UnitTestDemo\CIV_Unit_Test_Demo\UnitTestDemo\bin\Debug\net5.0\UnitTestDemo.dll
+C:\Users\tbaird\Desktop\CourseWork\UnitTestDemo\CIV_Unit_Test_Demo\UnitTestDemo\bin\Debug\net5.0\ref\UnitTestDemo.dll
+C:\Users\tbaird\Desktop\CourseWork\UnitTestDemo\CIV_Unit_Test_Demo\UnitTestDemo\bin\Debug\net5.0\UnitTestDemo.pdb
+C:\Users\tbaird\Desktop\CourseWork\UnitTestDemo\CIV_Unit_Test_Demo\UnitTestDemo\obj\Debug\net5.0\UnitTestDemo.csproj.AssemblyReference.cache
+C:\Users\tbaird\Desktop\CourseWork\UnitTestDemo\CIV_Unit_Test_Demo\UnitTestDemo\obj\Debug\net5.0\UnitTestDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbaird\Desktop\CourseWork\UnitTestDemo\CIV_Unit_Test_Demo\UnitTestDemo\obj\Debug\net5.0\UnitTestDemo.AssemblyInfoInputs.cache
+C:\Users\tbaird\Desktop\CourseWork\UnitTestDemo\CIV_Unit_Test_Demo\UnitTestDemo\obj\Debug\net5.0\UnitTestDemo.AssemblyInfo.cs
+C:\Users\tbaird\Desktop\CourseWork\UnitTestDemo\CIV_Unit_Test_Demo\UnitTestDemo\obj\Debug\net5.0\UnitTestDemo.csproj.CoreCompileInputs.cache
+C:\Users\tbaird\Desktop\CourseWork\UnitTestDemo\CIV_Unit_Test_Demo\UnitTestDemo\obj\Debug\net5.0\UnitTestDemo.dll
+C:\Users\tbaird\Desktop\CourseWork\UnitTestDemo\CIV_Unit_Test_Demo\UnitTestDemo\obj\Debug\net5.0\ref\UnitTestDemo.dll
+C:\Users\tbaird\Desktop\CourseWork\UnitTestDemo\CIV_Unit_Test_Demo\UnitTestDemo\obj\Debug\net5.0\UnitTestDemo.pdb
+C:\Users\luke1\OneDrive\desktop\New folder\CIV_Unit_Test_Demo\UnitTestDemo\bin\Debug\net5.0\UnitTestDemo.deps.json
+C:\Users\luke1\OneDrive\desktop\New folder\CIV_Unit_Test_Demo\UnitTestDemo\bin\Debug\net5.0\UnitTestDemo.dll
+C:\Users\luke1\OneDrive\desktop\New folder\CIV_Unit_Test_Demo\UnitTestDemo\bin\Debug\net5.0\ref\UnitTestDemo.dll
+C:\Users\luke1\OneDrive\desktop\New folder\CIV_Unit_Test_Demo\UnitTestDemo\bin\Debug\net5.0\UnitTestDemo.pdb
+C:\Users\luke1\OneDrive\desktop\New folder\CIV_Unit_Test_Demo\UnitTestDemo\obj\Debug\net5.0\UnitTestDemo.csproj.AssemblyReference.cache
+C:\Users\luke1\OneDrive\desktop\New folder\CIV_Unit_Test_Demo\UnitTestDemo\obj\Debug\net5.0\UnitTestDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luke1\OneDrive\desktop\New folder\CIV_Unit_Test_Demo\UnitTestDemo\obj\Debug\net5.0\UnitTestDemo.AssemblyInfoInputs.cache
+C:\Users\luke1\OneDrive\desktop\New folder\CIV_Unit_Test_Demo\UnitTestDemo\obj\Debug\net5.0\UnitTestDemo.AssemblyInfo.cs
+C:\Users\luke1\OneDrive\desktop\New folder\CIV_Unit_Test_Demo\UnitTestDemo\obj\Debug\net5.0\UnitTestDemo.csproj.CoreCompileInputs.cache
+C:\Users\luke1\OneDrive\desktop\New folder\CIV_Unit_Test_Demo\UnitTestDemo\obj\Debug\net5.0\UnitTestDemo.dll
+C:\Users\luke1\OneDrive\desktop\New folder\CIV_Unit_Test_Demo\UnitTestDemo\obj\Debug\net5.0\ref\UnitTestDemo.dll
+C:\Users\luke1\OneDrive\desktop\New folder\CIV_Unit_Test_Demo\UnitTestDemo\obj\Debug\net5.0\UnitTestDemo.pdb
